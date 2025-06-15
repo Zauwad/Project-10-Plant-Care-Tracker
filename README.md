@@ -111,7 +111,7 @@ plant-care-tracker/
 
 ## 👨‍💻 Developer
 
-**Your Name**
+**RDIWANUL AZIM**
 - GitHub: [@zauwad](https://github.com/zauwad)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ridwanul-azim-zawad-513272184/)
 - Email: redwanulazimzawad@gmail.com
